@@ -1,0 +1,1 @@
+变量名HOME，变量值%USERPROFILE%

@@ -1,0 +1,33 @@
+https://blog.csdn.net/qq_34842671/article/details/70916587
+
+
+https://blog.csdn.net/wojiushiwo577785/article/details/78985546
+
+
+https://blog.csdn.net/wojiushiwo577785/article/details/78985546
+
+ssh-keygen -t rsa -C "469270355@qq.com"
+
+
+https://github.com/469270355/hashno.git
+git@github.com:469270355/hashno.git
+
+
+git remote add origin git@github.com:469270355/hashno.git
+git push -u origin master
+
+git remote add origin git@github.com:469270355/hashno.git
+
+
+
+git config --global user.name "469270355"
+git config --global user.email "469270355@469270355.com"
+
+
+
+name="469270355"
+email="469270355@469270355.com"
+
+
+
+ssh-keygen -t rsa -C "469270355@469270355.com"
